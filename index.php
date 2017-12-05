@@ -149,6 +149,7 @@ $pemisah_ribuan =".";
         <li><a href="?id=<?php echo urlencode(base64_encode(9)); ?>"><i class="glyphicon glyphicon-pencil"></i> Laporan Stok Buku</a></li>
         <li><a href="?id=<?php echo urlencode(base64_encode(10)); ?>"><i class="glyphicon glyphicon-pencil"></i> Laporan Penjualan</a></li>
         <li><a href="?id=<?php echo urlencode(base64_encode(5)); ?>"><i class="glyphicon glyphicon-th-list"></i> Manajemen Produk</a></li>
+        <li><a href="?id=<?php echo urlencode(base64_encode(17)); ?>"><i class="glyphicon glyphicon-pencil"></i> Stok Awal</a></li>
         <li><a href="?id=<?php echo urlencode(base64_encode(6)); ?>"><i class="glyphicon glyphicon-pencil"></i> Manajemen Noozle</a></li>
       </ul>
     </section>

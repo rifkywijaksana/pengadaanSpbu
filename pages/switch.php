@@ -56,5 +56,8 @@
 	case 16 :
 	include "pages/inputPremium2.php";
 	break;
+	case 17 :
+	include "pages/inputStokAwal.php";
+	break;
 }
 ?>
